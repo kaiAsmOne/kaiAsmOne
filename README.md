@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  👋
 
 - 🔭 I’m currently helping companies reducing their attack surface in hybrid cloud environments
 - 🌱 I’m currently learning as much as possible on reducing attack surface for enterprises or companies in Hybrid environments.
