@@ -1,4 +1,4 @@
-
+<small>
 - 🔭 I’m currently helping companies reducing their attack surface in hybrid cloud environments
 - 🔭 My unique skill is how to expose Applicarions and API´s understanding both the security and the applications inner workings in a secure and scalable manner
 - 🌱 I currently try to learn as much as possible on reducing attack surface for enterprises or companies in Hybrid or Cloud Environments.
@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I spent 2 years collecting soda bottles to purchase my first own computer at the age of 8.
 - ⚡ Fun fact: I spent all my savings at the age of 12 to purchase books on coding Assembly on Motorola CPU´s (later Java/.NET/Python/bash / same shit new wrapping)
 
-
+</small>
