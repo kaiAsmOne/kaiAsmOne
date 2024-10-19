@@ -1,4 +1,3 @@
-## Hi  👋
 
 - 🔭 I’m currently helping companies reducing their attack surface in hybrid cloud environments
 - 🔭 My unique skill is how to expose Applicarions and API´s understanding both the security and the applications inner workings in a secure and scalable manner
