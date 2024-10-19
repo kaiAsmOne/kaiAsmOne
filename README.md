@@ -1,7 +1,7 @@
 ## Hi  👋
 
 - 🔭 I’m currently helping companies reducing their attack surface in hybrid cloud environments
-- 🔭 My unique skill is by experience and study how to expose services such as web apps and api´s understanding both the security and the applications inner workings
+- 🔭 My unique skill is how to expose services such as web apps and api´s understanding both the security and the applications inner workings in a secure and scalable manner
 - 🌱 I’m currently learning as much as possible on reducing attack surface for enterprises or companies in Hybrid environments.
 - 🤔 I’m looking for help with finding good Zero Trust Network Solutions such as SASE or Reverse Proxies implemented using eBPF on both onPrem and Cloud
 - 💬 Ask me about anything Security Related or protocols such as TCP/IP , L2-L7, HTTP, HTML, OAuth, OIDC, SAML, Kerberos, TLS, IPSec.
